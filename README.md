@@ -113,7 +113,7 @@ npm run start
 - Registro de vendas com validação de estoque
 - Transações para garantir integridade dos dados
 - Filtro de vendas por mês/ano
-- Ordenação de listagens conforme especificado
+- Ordenação de listagens
 
 ## Validações
 
